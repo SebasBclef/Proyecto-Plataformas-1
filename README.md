@@ -1,2 +1,2 @@
 # Proyecto-Plataformas-1
-[Universidad de Costa Rica PDF](Universidad de Costa Rica.pdf)
+[Reporte PDF](Universidad_de_Costa_Rica.pdf)
