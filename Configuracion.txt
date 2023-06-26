@@ -1,0 +1,14 @@
+Configuracion
+ID: Marte
+Masa: 6.39e23
+Posicion X Perihelio: 100464230.78
+Posicion Y Perihelio: 544487560.25
+Posicion X Afelio: 400000000
+Posicion Y Afelio: 989998000
+Posicion X Inicial: 454000000
+Posicion Y Inicial: 145200000
+
+Consultas
+ID Consulta: Marte
+ID Objeto: Marte
+Tiempo: 90000

@@ -1,0 +1,16 @@
+
+ID de la Consulta: Marte
+Coordenada X en el tiempo 78954.00: 453921046.000000
+Coordenada Y en el tiempo 78954.00: 145200018.000000
+ID de la Consulta: Marte
+Coordenada X en el tiempo 78954455040.00: -2147483648.000000
+Coordenada Y en el tiempo 78954455040.00: -8543644672.000000
+ID de la Consulta: Marte
+Coordenada X en el tiempo 78954456.00: 377142878.000000
+Coordenada Y en el tiempo 78954456.00: 163277307.000000
+ID de la Consulta: Marte
+Coordenada X en el tiempo 90000.00: 453910000.000000
+Coordenada Y en el tiempo 90000.00: 145200023.000000
+ID de la Consulta: Marte
+Coordenada X en el tiempo 90000.00: 453910000.000000
+Coordenada Y en el tiempo 90000.00: 145200023.000000
